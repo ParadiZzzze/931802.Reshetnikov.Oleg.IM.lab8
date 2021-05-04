@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\olegr\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\olegr\\.nuget\\packages"
+    ]
+  }
+}

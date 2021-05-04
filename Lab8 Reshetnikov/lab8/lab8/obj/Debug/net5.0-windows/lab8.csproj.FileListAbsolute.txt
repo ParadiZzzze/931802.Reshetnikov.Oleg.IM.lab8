@@ -1,0 +1,36 @@
+C:\Users\nikita\source\repos\lab8\lab8\bin\Debug\net5.0-windows\lab8.exe
+C:\Users\nikita\source\repos\lab8\lab8\bin\Debug\net5.0-windows\lab8.deps.json
+C:\Users\nikita\source\repos\lab8\lab8\bin\Debug\net5.0-windows\lab8.runtimeconfig.json
+C:\Users\nikita\source\repos\lab8\lab8\bin\Debug\net5.0-windows\lab8.runtimeconfig.dev.json
+C:\Users\nikita\source\repos\lab8\lab8\bin\Debug\net5.0-windows\lab8.dll
+C:\Users\nikita\source\repos\lab8\lab8\bin\Debug\net5.0-windows\ref\lab8.dll
+C:\Users\nikita\source\repos\lab8\lab8\bin\Debug\net5.0-windows\lab8.pdb
+C:\Users\nikita\source\repos\lab8\lab8\obj\Debug\net5.0-windows\lab8.csprojAssemblyReference.cache
+C:\Users\nikita\source\repos\lab8\lab8\obj\Debug\net5.0-windows\lab8.Form1.resources
+C:\Users\nikita\source\repos\lab8\lab8\obj\Debug\net5.0-windows\lab8.csproj.GenerateResource.cache
+C:\Users\nikita\source\repos\lab8\lab8\obj\Debug\net5.0-windows\lab8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikita\source\repos\lab8\lab8\obj\Debug\net5.0-windows\lab8.AssemblyInfoInputs.cache
+C:\Users\nikita\source\repos\lab8\lab8\obj\Debug\net5.0-windows\lab8.AssemblyInfo.cs
+C:\Users\nikita\source\repos\lab8\lab8\obj\Debug\net5.0-windows\lab8.csproj.CoreCompileInputs.cache
+C:\Users\nikita\source\repos\lab8\lab8\obj\Debug\net5.0-windows\lab8.dll
+C:\Users\nikita\source\repos\lab8\lab8\obj\Debug\net5.0-windows\ref\lab8.dll
+C:\Users\nikita\source\repos\lab8\lab8\obj\Debug\net5.0-windows\lab8.pdb
+C:\Users\nikita\source\repos\lab8\lab8\obj\Debug\net5.0-windows\lab8.genruntimeconfig.cache
+C:\Users\olegr\OneDrive\Рабочий стол\EventSimulator-main\lab8\lab8\bin\Debug\net5.0-windows\lab8.exe
+C:\Users\olegr\OneDrive\Рабочий стол\EventSimulator-main\lab8\lab8\bin\Debug\net5.0-windows\lab8.deps.json
+C:\Users\olegr\OneDrive\Рабочий стол\EventSimulator-main\lab8\lab8\bin\Debug\net5.0-windows\lab8.runtimeconfig.json
+C:\Users\olegr\OneDrive\Рабочий стол\EventSimulator-main\lab8\lab8\bin\Debug\net5.0-windows\lab8.runtimeconfig.dev.json
+C:\Users\olegr\OneDrive\Рабочий стол\EventSimulator-main\lab8\lab8\bin\Debug\net5.0-windows\lab8.dll
+C:\Users\olegr\OneDrive\Рабочий стол\EventSimulator-main\lab8\lab8\bin\Debug\net5.0-windows\ref\lab8.dll
+C:\Users\olegr\OneDrive\Рабочий стол\EventSimulator-main\lab8\lab8\bin\Debug\net5.0-windows\lab8.pdb
+C:\Users\olegr\OneDrive\Рабочий стол\EventSimulator-main\lab8\lab8\obj\Debug\net5.0-windows\lab8.csprojAssemblyReference.cache
+C:\Users\olegr\OneDrive\Рабочий стол\EventSimulator-main\lab8\lab8\obj\Debug\net5.0-windows\lab8.Form1.resources
+C:\Users\olegr\OneDrive\Рабочий стол\EventSimulator-main\lab8\lab8\obj\Debug\net5.0-windows\lab8.csproj.GenerateResource.cache
+C:\Users\olegr\OneDrive\Рабочий стол\EventSimulator-main\lab8\lab8\obj\Debug\net5.0-windows\lab8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olegr\OneDrive\Рабочий стол\EventSimulator-main\lab8\lab8\obj\Debug\net5.0-windows\lab8.AssemblyInfoInputs.cache
+C:\Users\olegr\OneDrive\Рабочий стол\EventSimulator-main\lab8\lab8\obj\Debug\net5.0-windows\lab8.AssemblyInfo.cs
+C:\Users\olegr\OneDrive\Рабочий стол\EventSimulator-main\lab8\lab8\obj\Debug\net5.0-windows\lab8.csproj.CoreCompileInputs.cache
+C:\Users\olegr\OneDrive\Рабочий стол\EventSimulator-main\lab8\lab8\obj\Debug\net5.0-windows\lab8.dll
+C:\Users\olegr\OneDrive\Рабочий стол\EventSimulator-main\lab8\lab8\obj\Debug\net5.0-windows\ref\lab8.dll
+C:\Users\olegr\OneDrive\Рабочий стол\EventSimulator-main\lab8\lab8\obj\Debug\net5.0-windows\lab8.pdb
+C:\Users\olegr\OneDrive\Рабочий стол\EventSimulator-main\lab8\lab8\obj\Debug\net5.0-windows\lab8.genruntimeconfig.cache
